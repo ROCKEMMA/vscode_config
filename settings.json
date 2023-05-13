@@ -11,4 +11,5 @@
     "breadcrumbs.enabled": false,
     "editor.glyphMargin": false,
     "workbench.statusBar.visible": false,
-    "editor.matchBrackets": "never"
+    "editor.matchBrackets": "never",
+    "breadcrumbs.enabled": false
