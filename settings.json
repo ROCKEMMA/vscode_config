@@ -13,4 +13,6 @@
     "editor.matchBrackets": "never",
     "breadcrumbs.enabled": false,
     "workbench.activityBar.location": "hidden",
-    "workbench.colorTheme": "Default Dark Modern"
+    "workbench.colorTheme": "Default Dark Modern",
+    "editor.fontSize": 19,
+    "breadcrumbs.enabled": false
