@@ -1,5 +1,6 @@
 # MIS COMANDOS
-cd Desktop 
+cd Desktop
+ 
 echo "                  _                             "
 echo "  ____ ___   ____| |  _ _____ ____  ____  _____ "
 echo " / ___) _ \ / ___) |_/ ) ___ |    \|    \(____ |"
@@ -7,3 +8,11 @@ echo "| |  | |_| ( (___|  _ (| ____| | | | | | / ___ |"
 echo "|_|   \___/ \____)_| \_)_____)_|_|_|_|_|_\_____|"
 echo ":::::::::::::::::::::::::::::::::::::::::::::::::::::"
 ls -l
+
+# Alias
+# Descargar cloudflared para mostrar localhost en linea
+# Agrega tus alisas y reinicia la terminal con sourse .bashrc
+# recuerda que ambos alias requieren del link de localhost de tu proyecto
+
+alias publicar='cloudflared tunnel --url'
+alias verificar='npx unlighthouse --site'
