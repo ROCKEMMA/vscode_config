@@ -15,3 +15,4 @@
     "workbench.activityBar.location": "hidden",
     "workbench.colorTheme": "Default Dark Modern",
     "editor.fontSize": 19,
+    "editor.hover.enabled": false
